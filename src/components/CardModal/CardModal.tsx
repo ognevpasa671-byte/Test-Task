@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Card, Priority } from '../../store/slices/boardSlice';
 import { Overlay, Modal, ModalTitle, Field, Label, Select, Actions } from './CardModal.styles';
 import { Input, Textarea } from '../UI/Input';

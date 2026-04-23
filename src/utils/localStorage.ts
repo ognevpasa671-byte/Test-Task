@@ -15,6 +15,6 @@ export const saveColumns = (columns: Column[]): void => {
   try {
     localStorage.setItem(KEY, JSON.stringify(columns));
   } catch {
-    return null;
+    return;
   }
 };
