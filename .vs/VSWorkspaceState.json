@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.husky",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\CardModal",
+    "\\src\\components\\Column",
+    "\\src\\components\\ErrorBoundary",
+    "\\src\\components\\UI",
+    "\\src\\styles"
+  ],
+  "SelectedNode": "\\src\\components\\Column\\Column.tsx",
+  "PreviewInSolutionExplorer": false
+}
